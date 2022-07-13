@@ -18,7 +18,7 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
 
-	<link rel="stylesheet" type="text/css" href="https://www.ophanim.com.br/estilo.css">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
 
 	<link rel="canonical" href="https://www.ophanim.com.br">
 	<meta name="title" content="Ophanim Desenvolvimento" />
@@ -39,15 +39,9 @@
 
 <body>
 
-<div id='loader'>
-	<svg class='spinner' viewBox='0 0 50 50'>
-		<circle class='path' cx='25' cy='25' r='20' fill='none' stroke-width='3'></circle>
-	</svg>
-</div>
-
 <!-- menutopwrap -->
 <div id='menutopwrap'>
-	<img id='logotop' src='https://www.ophanim.com.br/img/2510211150.png'></img>
+	<img id='logotop' src='img/2510211150.png'></img>
 </div>
 <!-- menutopwrap -->
 
@@ -67,7 +61,7 @@
 				<!-- relative -->
 				<div id='introwrap'>
 					<div style='min-width:100%;max-width:100%;display:inline-block'>
-						<video style='width:100%;max-width:990px;height:auto;' poster='https://www.ophanim.com.br/img/0211211105.png' loop autoplay muted><source src='https://www.ophanim.com.br/img/0211211105.mp4'></video>
+						<video style='width:100%;max-width:990px;height:auto;' poster='https://www.ophanim.com.br/img/0211211105.png' loop autoplay muted><source src='img/0211211105.mp4'></video>
 					</div>
 					<div class='txtintrowrap'>
 						<p class='txtintro'>
@@ -98,7 +92,7 @@
 						<!-- otimizacao -->
 						<div id='performancewrap' class='sectionwrap'>
 							<div class='sectionimg' style='float:left;'>
-								<video style='width:100%;height:auto;' loop autoplay muted><source src='https://www.ophanim.com.br/img/3110211659.mp4'></video>
+								<video style='width:100%;height:auto;' loop autoplay muted><source src='img/3110211659.mp4'></video>
 							</div>
 							<div class='sectiontexto' style='float:right;'>
 								<div class='passos'>
@@ -120,7 +114,7 @@
 						<!-- analise -->
 						<div id='performancewrap' class='sectionwrap'>
 							<div class='sectionimg' style='float:left;'>
-								<video style='width:100%;height:auto;' loop autoplay muted><source src='https://www.ophanim.com.br/img/3110211252.mp4'></video>
+								<video style='width:100%;height:auto;' loop autoplay muted><source src='img/3110211252.mp4'></video>
 							</div>
 							<div class='sectiontexto' style='float:right;'>
 								<div class='passos'>
@@ -142,7 +136,7 @@
 						<!-- ampliacao -->
 						<div id='performancewrap' class='sectionwrap'>
 							<div class='sectionimg' style='float:left;'>
-								<video style='width:100%;height:auto;' loop autoplay muted><source src='https://www.ophanim.com.br/img/3110211801.mp4'></video>
+								<video style='width:100%;height:auto;' loop autoplay muted><source src='img/3110211801.mp4'></video>
 							</div>
 							<div class='sectiontexto' style='float:right;'>
 								<div class='passos'>
@@ -204,7 +198,7 @@
 						</div>
 					</div>
 					<div class='sectionimg' style='float:right;'>
-						<img style='max-width:100%;height:auto;' src='https://www.ophanim.com.br/img/2510212247.png'></img>
+						<img style='max-width:100%;height:auto;' src='img/2510212247.png'></img>
 					</div>
 				</div>
 				<!-- sob medida -->
@@ -212,7 +206,7 @@
 				<!-- performance -->
 				<div id='performancewrap' class='sectionwrap'>
 					<div class='sectionimg' style='float:left;'>
-						<img style='width:auto;max-width:100%;height:auto;' src='https://www.ophanim.com.br/img/performanceicon2.png'></img>
+						<img style='width:auto;max-width:100%;height:auto;' src='img/performanceicon2.png'></img>
 					</div>
 					<div class='sectiontexto' style='float:right;'>
 						<div class='passos'>
@@ -240,7 +234,7 @@
 						</div>
 					</div>
 					<div class='sectionimg' style='float:right;'>
-						<img style='width:auto;max-width:100%;height:auto;' src='https://www.ophanim.com.br/img/2810211437.png'></img>
+						<img style='width:auto;max-width:100%;height:auto;' src='img/2810211437.png'></img>
 					</div>
 				</div>
 				<!-- criacao -->
@@ -248,7 +242,7 @@
 				<!-- desenvolvimento -->
 				<div id='desenvolvimentowrap' class='sectionwrap'>
 					<div class='sectionimg' style='float:left;'>
-						<img style='width:auto;max-width:100%;height:auto;' src='https://www.ophanim.com.br/img/criacaoicon2.png'></img>
+						<img style='width:auto;max-width:100%;height:auto;' src='img/criacaoicon2.png'></img>
 					</div>
 					<div class='sectiontexto' style='float:right;'>
 						<div class='passos'>
@@ -276,7 +270,7 @@
 						</div>
 					</div>
 					<div class='sectionimg' style='float:right;'>
-						<img style='width:auto;max-width:100%;height:auto;' src='https://www.ophanim.com.br/img/2610212004.png'></img>
+						<img style='width:auto;max-width:100%;height:auto;' src='img/2610212004.png'></img>
 					</div>
 				</div>
 				<!-- evolucao -->
@@ -284,7 +278,7 @@
 				<!-- informacao -->
 				<div id='informacaowrap' class='sectionwrap'>
 					<div class='sectionimg' style='float:left;'>
-						<img style='width:auto;max-width:100%;height:auto;' src='https://www.ophanim.com.br/img/3010212151.png'></img>
+						<img style='width:auto;max-width:100%;height:auto;' src='img/3010212151.png'></img>
 					</div>
 					<div class='sectiontexto' style='float:right;'>
 						<div class='passos'>
@@ -312,7 +306,7 @@
 						</div>
 					</div>
 					<div class='sectionimg' style='float:right;'>
-						<img style='width:auto;max-width:100%;height:auto;' src='https://www.ophanim.com.br/img/2710211228.png'></img>
+						<img style='width:auto;max-width:100%;height:auto;' src='img/2710211228.png'></img>
 					</div>
 				</div>
 				<!-- tempo -->
@@ -325,7 +319,7 @@
 					<div class='comofuncionaouterwrap'>
 						<div class='comofuncionawrap'>
 							<div class='comofuncionaimg'>
-								<img style='width:auto;max-width:55px;height:auto;' src='https://www.ophanim.com.br/img/0111211043.png'></img>
+								<img style='width:auto;max-width:55px;height:auto;' src='img/0111211043.png'></img>
 							</div>
 							<div class='comofuncionatexto'>
 								<p class='comofazemostitle'>
@@ -338,7 +332,7 @@
 						</div>
 						<div class='comofuncionawrap'>
 							<div class='comofuncionaimg'>
-								<img style='width:auto;max-width:55px;height:auto;' src='https://www.ophanim.com.br/img/0111211058.png'></img>
+								<img style='width:auto;max-width:55px;height:auto;' src='img/0111211058.png'></img>
 							</div>
 							<div class='comofuncionatexto'>
 								<p class='comofazemostitle'>
@@ -351,7 +345,7 @@
 						</div>
 						<div class='comofuncionawrap'>
 							<div class='comofuncionaimg'>
-								<img style='width:auto;max-width:55px;height:auto;' src='https://www.ophanim.com.br/img/0111211101.png'></img>
+								<img style='width:auto;max-width:55px;height:auto;' src='img/0111211101.png'></img>
 							</div>
 							<div class='comofuncionatexto'>
 								<p class='comofazemostitle'>
@@ -364,7 +358,7 @@
 						</div>
 						<div class='comofuncionawrap'>
 							<div class='comofuncionaimg'>
-								<img style='width:auto;max-width:55px;height:auto;' src='https://www.ophanim.com.br/img/0111211109.png'></img>
+								<img style='width:auto;max-width:55px;height:auto;' src='img/0111211109.png'></img>
 							</div>
 							<div class='comofuncionatexto'>
 								<p class='comofazemostitle'>
@@ -377,7 +371,7 @@
 						</div>
 						<div class='comofuncionawrap'>
 							<div class='comofuncionaimg'>
-								<img style='width:auto;max-width:55px;height:auto;' src='https://www.ophanim.com.br/img/0111211132.png'></img>
+								<img style='width:auto;max-width:55px;height:auto;' src='img/0111211132.png'></img>
 							</div>
 							<div class='comofuncionatexto'>
 								<p class='comofazemostitle'>
@@ -390,7 +384,7 @@
 						</div>
 						<div class='comofuncionawrap'>
 							<div class='comofuncionaimg'>
-								<img style='width:auto;max-width:55px;height:auto;' src='https://www.ophanim.com.br/img/0111211145.png'></img>
+								<img style='width:auto;max-width:55px;height:auto;' src='img/0111211145.png'></img>
 							</div>
 							<div class='comofuncionatexto'>
 								<p class='comofazemostitle'>
@@ -405,51 +399,6 @@
 				</div>
 				<!-- como funciona -->
 
-				<!-- conheca tambem -->
-				<div style='min-width:100%;display:flex;flex-direction:column;'>
-					<div style='flex:1;'>
-						<p class='titulop'>Conheça também</p>
-					</div>
-					<!-- agendamento -->
-					<div id='agendamentowrap' class='sectionwrap'>
-						<div class='sectiontexto' style='float:left;'>
-							<div class='passos'>
-								<p class='descindex'>
-									Agendamento
-								</p>
-								<p class='descindexmenor'>
-									Registre e gerencie seus agendamentos facilmente
-								</p>
-								<p id='conheceragendamentos' class='conhecabutton' style='float:right;'>
-									conhecer
-								</p>
-							</div>
-						</div>
-						<div class='sectionimg' style='float:right;'>
-							<img style='width:auto;max-width:100%;height:auto;' src='https://www.ophanim.com.br/img/2802221435.png'></img>
-						</div>
-					</div>
-					<!-- agendamento -->
-					<!-- aluguel -->
-					<div id='aluguelwrap' class='sectionwrap'>
-						<div class='sectionimg' style='float:left;'>
-							<img style='width:auto;max-width:100%;height:auto;' src='https://www.ophanim.com.br/img/0401221408.png'></img>
-						</div>
-						<div class='sectiontexto' style='float:right;'>
-							<div class='passos'>
-								<p class='descindex' style='text-align:left;'>
-									Aluguel
-								</p>
-								<p class='descindexmenor' style='text-align:left;'>
-									Tenha todas as suas movimentações em relatórios disponíveis pra você.
-								</p>
-								<p id='conheceraluguel' class='conhecabutton' style='float:left;'>
-									conhecer
-								</p>
-							</div>
-						</div>
-					</div>
-					<!-- aluguel -->
 				</div>
 				<!-- conheca tambem -->
 
@@ -496,7 +445,7 @@
 
 		        <div class='rodapecoluna'>
 		                <div>
-		                        <img id='logobottom' style='height:auto;width:100%;max-width:180px;margin:3% auto;' src='https://www.ophanim.com.br/img/2110212235.png'></img>
+		                        <img id='logobottom' style='height:auto;width:100%;max-width:180px;margin:3% auto;' src='img/2110212235.png'></img>
 		                </div>
 		        </div>
 		</div>
